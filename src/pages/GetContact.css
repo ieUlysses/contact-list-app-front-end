@@ -1,0 +1,28 @@
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    max-width: 700px;
+}
+
+.contact-form > * {
+    margin: 10px;
+    height: 25px;
+}
+
+.contact-form > textarea {
+    height: 120px;
+}
+
+.contact-form > button {
+    height: 40px;
+    /* width: fit-content; */
+}
+
+#get-contact {
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
