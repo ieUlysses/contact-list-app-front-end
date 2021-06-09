@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/contact-list-app-front-end/static/css/main.52de6497.chunk.css",
+    "main.js": "/contact-list-app-front-end/static/js/main.0ea9b0fc.chunk.js",
+    "main.js.map": "/contact-list-app-front-end/static/js/main.0ea9b0fc.chunk.js.map",
+    "runtime-main.js": "/contact-list-app-front-end/static/js/runtime-main.20b71817.js",
+    "runtime-main.js.map": "/contact-list-app-front-end/static/js/runtime-main.20b71817.js.map",
+    "static/js/2.b3186b92.chunk.js": "/contact-list-app-front-end/static/js/2.b3186b92.chunk.js",
+    "static/js/2.b3186b92.chunk.js.map": "/contact-list-app-front-end/static/js/2.b3186b92.chunk.js.map",
+    "index.html": "/contact-list-app-front-end/index.html",
+    "static/css/main.52de6497.chunk.css.map": "/contact-list-app-front-end/static/css/main.52de6497.chunk.css.map",
+    "static/js/2.b3186b92.chunk.js.LICENSE.txt": "/contact-list-app-front-end/static/js/2.b3186b92.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/contact-list-app-front-end/static/media/bg.ab3ea406.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20b71817.js",
+    "static/js/2.b3186b92.chunk.js",
+    "static/css/main.52de6497.chunk.css",
+    "static/js/main.0ea9b0fc.chunk.js"
+  ]
+}
